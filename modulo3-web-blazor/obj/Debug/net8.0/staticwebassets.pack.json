@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ibge\\Desktop\\ProjetosIBGE\\web-blazor-modulo3\\modulo3-web-blazor\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\modulo3-web-blazor.bundle.scp.css",
+      "PackagePath": "staticwebassets\\modulo3-web-blazor.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\ibge\\Desktop\\ProjetosIBGE\\web-blazor-modulo3\\modulo3-web-blazor\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\ibge\\Desktop\\ProjetosIBGE\\web-blazor-modulo3\\modulo3-web-blazor\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ibge\\Desktop\\ProjetosIBGE\\web-blazor-modulo3\\modulo3-web-blazor\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ibge\\Desktop\\ProjetosIBGE\\web-blazor-modulo3\\modulo3-web-blazor\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.modulo3-web-blazor.props",
+      "PackagePath": "build\\modulo3-web-blazor.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.modulo3-web-blazor.props",
+      "PackagePath": "buildMultiTargeting\\modulo3-web-blazor.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.modulo3-web-blazor.props",
+      "PackagePath": "buildTransitive\\modulo3-web-blazor.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.modulo3-web-blazor.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
