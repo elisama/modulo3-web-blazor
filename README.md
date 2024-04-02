@@ -62,7 +62,7 @@ Eventos clássicos do DOM como *onload*, *onclick*, *onchange*, etc, podem ser e
 @code {
     private int Conta = 0;
 
-    private void IncrementCount()
+    private void IncrementaConta()
     {
        Conta += 1;
     }
