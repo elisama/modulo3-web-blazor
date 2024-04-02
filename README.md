@@ -24,24 +24,32 @@ Mesmo que não deixemos explicitado que finalizou o código em C# o **razor** co
 
 ## 3 Adição de fluxo de controle
 
-Também é possível 
+Também é possível inserir fluxo de programa no HTML, como questões condicionais, conforme já fazíamos no JavaScript, igual ao exemplo a seguir:
 
 ```js
-<p id="demo"></p>
+<HTML>
+    <BODY>
+        <p id="demo"></p>
 
-<script>
-    if(valorCorrente > 3){
-        document.getElementById("demo").innerHTML = "Hello World!";
-    }
-</script>
+        <script>
+            if(valorCorrente > 3){
+                document.getElementById("demo").innerHTML = "Hello World!";
+            }
+        </script>
+    </BODY>
+</HTML>
 ```
+No entanto, veja como é muito mais simples fazer a mesma atividade acima utilizando a linguagem **C#** com a sitaxe **razor** no HTML:
 
 ```razor
-@if(valorCorrente > 3)
-{
-    <p> Hello World! </p>
-}
-<>
+<HTML>
+    <BODY>
+        @if(valorCorrente > 3)
+        {
+            <p> Hello World! </p>
+        }
+    </BODY>
+</HTML>
 ```
 
 ## 4 Tratamento de eventos
