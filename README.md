@@ -70,6 +70,21 @@ Eventos clássicos do DOM como *onload*, *onclick*, *onchange*, etc, podem ser e
 ```
 ## 5 Vinculação de dados
 
+o atributo `@bind` permite que seja criado um **vínculo bidirecional** do valor que um elemento do DOM tanto recebe quanto exibe par o usuário. Caso o valor desse elemento seja alterado no DOM, ele será atualizado automaticamente no código, e caso seja alterado no código, será também automaticamente atualizado no DOM.[^1]  
+
+```razor
+<input @bind="text" />
+
+    <button @onclick="() => text = string.Empty">Clear</button>
+
+<p>@text</p>
+
+@code {
+    string text = "";
+}
+```
+
+[^1]: Recursos de vinculação [Binding features](https://learn.microsoft.com/en-us/aspnet/core/blazor/components/data-binding?view=aspnetcore-8.0)
 ## 6 Criação da Lista
 
 ### 6.1 Adição de um componente
