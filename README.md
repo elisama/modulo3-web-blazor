@@ -54,11 +54,25 @@ No entanto, veja como é muito mais simples fazer a mesma atividade acima utiliz
 
 ## 4 Tratamento de eventos
 
+Eventos clássicos do DOM como *onload*, *onclick*, *onchange*, etc, podem ser executados no HTML através da sintaxe blazor, conforme o exemplo abaixo que ao clicar no mouse uma função de incremento é executada em C#:
 
+```razor
+<button @onclick="IncrementaConta"> Clique </button>
+
+@code {
+    private int Conta = 0;
+
+    private void IncrementCount()
+    {
+       Conta += 1;
+    }
+}
+```
 ## 5 Vinculação de dados
 
 ## 6 Criação da Lista
 
+### 6.1 Adição de um componente
 
 ## 7 Material de suporte
 
