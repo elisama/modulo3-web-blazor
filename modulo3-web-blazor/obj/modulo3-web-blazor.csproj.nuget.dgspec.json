@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ibge\\Desktop\\ProjetosIBGE\\web-blazor-modulo3\\modulo3-web-blazor\\modulo3-web-blazor.csproj": {}
+    "c:\\Users\\ibge\\Desktop\\ProjetosIBGE\\web-blazor-modulo3\\modulo3-web-blazor\\modulo3-web-blazor.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ibge\\Desktop\\ProjetosIBGE\\web-blazor-modulo3\\modulo3-web-blazor\\modulo3-web-blazor.csproj": {
+    "c:\\Users\\ibge\\Desktop\\ProjetosIBGE\\web-blazor-modulo3\\modulo3-web-blazor\\modulo3-web-blazor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ibge\\Desktop\\ProjetosIBGE\\web-blazor-modulo3\\modulo3-web-blazor\\modulo3-web-blazor.csproj",
+        "projectUniqueName": "c:\\Users\\ibge\\Desktop\\ProjetosIBGE\\web-blazor-modulo3\\modulo3-web-blazor\\modulo3-web-blazor.csproj",
         "projectName": "modulo3-web-blazor",
-        "projectPath": "C:\\Users\\ibge\\Desktop\\ProjetosIBGE\\web-blazor-modulo3\\modulo3-web-blazor\\modulo3-web-blazor.csproj",
+        "projectPath": "c:\\Users\\ibge\\Desktop\\ProjetosIBGE\\web-blazor-modulo3\\modulo3-web-blazor\\modulo3-web-blazor.csproj",
         "packagesPath": "C:\\Users\\ibge\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ibge\\Desktop\\ProjetosIBGE\\web-blazor-modulo3\\modulo3-web-blazor\\obj\\",
+        "outputPath": "c:\\Users\\ibge\\Desktop\\ProjetosIBGE\\web-blazor-modulo3\\modulo3-web-blazor\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ibge\\AppData\\Roaming\\NuGet\\NuGet.Config"
